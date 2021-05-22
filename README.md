@@ -2,4 +2,5 @@
 ### using : 
 - HTML
 - CSS
-   - Transform:translateX(...)
+   - transform:translateX(...)
+   - transform:rotate(...)
